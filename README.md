@@ -7,8 +7,8 @@ I'm a passionate **tech enthusiast** and **app developer** who loves building sc
 
 ## 🛠️ Skills & Tools  
 - **Languages & Frameworks:** C++, Java, Python, Django, Flutter, Firebase  
-- **Tech Stack:** Node.js, Flask, SQL, API Development, Android Studio  
-- **Problem Solving:** 400+ problems solved on LeetCode and GeeksforGeeks  
+- **Tech Stack:** React.js,Node.js, Flask, SQL, API Development, Android Studio  
+- **Problem Solving:** 500+ problems solved on LeetCode and GeeksforGeeks  
 
 ---
 
